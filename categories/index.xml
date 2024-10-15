@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Red Signals的工作导航</title>
-    <link>http://localhost:3000/work/categories/</link>
+    <link>https://red-signals.github.io/work/categories/</link>
     <description>Recent content in Categories on Red Signals的工作导航</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
-    <atom:link href="http://localhost:3000/work/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://red-signals.github.io/work/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
